@@ -8,7 +8,7 @@ const Avaratr = () => {
       <Image
         borderRadius="full"
         boxSize="150px"
-        src="public/images/profile__img.png"
+        src="images/profile__img.png"
         alt="Dan Abramov"
       />
       <Text my={'2rem'}>John Doe</Text>

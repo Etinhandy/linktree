@@ -42,7 +42,7 @@ const App = () => {
         <Image
           boxSize="base"
           objectFit="cover"
-          src="/images/kodecamp logo white 2.png"
+          src="images/kodecamp logo white 2.png"
           alt="KodeCamp logo"
         />
 
@@ -52,7 +52,7 @@ const App = () => {
           boxSize="base"
           h={"2rem"}
           objectFit="cover"
-          src="/images/KodeHauz Logo 1.png"
+          src="images/KodeHauz Logo 1.png"
           alt="KodeHauz logo"
         />
       </Flex>
