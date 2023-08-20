@@ -27,7 +27,7 @@ const App = () => {
           h={"8"}
           w={'8'}
           objectFit="cover"
-          src="/images/slack.png"
+          src="images/slack.png"
           alt="Slack logo"
         />
         <Icon p="4" as={AiOutlineGithub} w="16" h="24" />
